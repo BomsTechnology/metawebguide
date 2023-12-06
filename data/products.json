@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.dailyclicks.net/wp-content/uploads/2021/07/digital-marketing-and-seo.jpg",
+        "title": "Meta creation",
+        "description": "Les réseaux Sociaux occupent une place importante dans la stratégie de communication des entreprises,bénéficiez d’une page professionnelle pour accroître votre notoriété sur le web.",
+        "price": "269 $ CAD",
+        "link": "#",
+        "slug": "meta-creation"
+    },
+    {
+        "id": 2,
+        "image": "https://www.dailyclicks.net/wp-content/uploads/2021/07/digital-marketing-and-seo.jpg",
+        "title": "Meta creation + Assistance",
+        "description": "Laissez vous guider par notre équipe d’expert,Il est nécessaire de bien gérer votre profil pour en tirer profit efficacement,Les réseaux Sociaux occupent une place importante dans la stratégie de communication des entreprises,bénéficiez d’une page professionnelle pour accroître votre notoriété sur le web.",
+        "price": "287 $ CAD",
+        "link": "#",
+        "slug": "meta-creation-assistance"
+    },
+    {
+        "id": 3,
+        "image": "https://www.dailyclicks.net/wp-content/uploads/2021/07/digital-marketing-and-seo.jpg",
+        "title": "Meta Ads",
+        "description": "Booster votre publicité sur le web est un excellent moyen de cibler votre audience exacte et d’obtenir des résultats immédiats.Aider nous à adapter votre annonce pour attirer des clients spécifiques,à cibler par données démographiques et à utiliser des analyses pour déterminer la stratégie optimale pour votre entreprise.",
+        "price": "359 $ CAD",
+        "link": "#",
+        "slug": "meta-ads"
+    }
+]

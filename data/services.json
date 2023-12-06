@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "/images/services/hollocasque.png",
+        "title": "Mise à disposition d'équipes d'experts",
+        "description": "Nos experts sont spécialisés dans la détection rapide et la réponse aux menaces informatiques. Protection proactive et temps de réponse rapides pour assurer la sécurité de votre entreprise."
+    },
+    {
+        "id": 2,
+        "image": "/images/services/hollobrain.png",
+        "title": "Mise à disposition d'équipes d'experts",
+        "description": "Nos experts sont spécialisés dans la détection rapide et la réponse aux menaces informatiques. Protection proactive et temps de réponse rapides pour assurer la sécurité de votre entreprise."
+    },
+    {
+        "id": 3,
+        "image": "/images/services/hollografik.png",
+        "title": "Mise à disposition d'équipes d'experts",
+        "description": "Nos experts sont spécialisés dans la détection rapide et la réponse aux menaces informatiques. Protection proactive et temps de réponse rapides pour assurer la sécurité de votre entreprise."
+    },
+    {
+        "id": 4,
+        "image": "/images/services/hollomagmaSphere.png",
+        "title": "Mise à disposition d'équipes d'experts",
+        "description": "Nos experts sont spécialisés dans la détection rapide et la réponse aux menaces informatiques. Protection proactive et temps de réponse rapides pour assurer la sécurité de votre entreprise."
+    }
+]
